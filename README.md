@@ -1,2 +1,2 @@
-# 4337 Content Ideas
-A place for community members to share ideas on content marketing initiatives around the 4337 standard 
+# 4337 Projects and Content
+A place for community members building in the space to share their projects, content, and ideas 
